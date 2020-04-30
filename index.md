@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Python 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Rats & Restaurants in NYC](/sample_page)
+<img src="images/NYC_RatsVRests.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,13 +17,9 @@
 
 ---
 
-### Category Name 2
+### R
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Predicting Genre from Lyrics](http://example.com/)
 
 ---
 
